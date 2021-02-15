@@ -14,7 +14,7 @@
   },
   "peerDependencies": {
     "leaflet": "^1.0.2",
-    "react-leaflet": "^1.0.1 || ^2.0.0"
+    "react-leaflet": "^1.0.1 || ^2.0.0 || ^3.0.0"
   },
   "devDependencies": {
     "babel-cli": "^6.9.0",
